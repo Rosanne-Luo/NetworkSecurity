@@ -23,3 +23,4 @@ printf("A is %d and is at %08x, B is %u and is at %08x.\n", A, &A, B, &B);
 ```
 该printf函数参数再栈中的分布如下：
 
+![](NetworkSecurity/raw/master/index_resourses/printf_overflow_exploit/printf_buffer_exploit_01.png)
